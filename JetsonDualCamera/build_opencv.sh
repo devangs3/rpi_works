@@ -1,4 +1,5 @@
 #!/bin/bash
+rm -rf build_opencv
 mkdir -p build_opencv
 cd build_opencv
 cmake ..
