@@ -1,2 +1,4 @@
 **/build*/
 log.txt
+**/perf.data
+**/perf.data.old
